@@ -1,0 +1,10 @@
+{
+    "manager": {
+        "password": "$2b$12$RaN0Gd3JteyEi5LLxyOxDum33MM0zVs/DzOhq2WBoN12IL1DlzKeK",
+        "role": "manager"
+    },
+    "sales1": {
+        "password": "$2b$12$DpdFe.I7iHavvTNpDAomqux6BcChRyiwXDZzNjtYfMPUUgCyIrREC",
+        "role": "sales"
+    }
+}
